@@ -5,7 +5,8 @@ MYSQL project for amazon sales analysis.
 
 
 
-![App Screenshot](https://raw.githubusercontent.com/OneBlack333/screenshot/main/images-sixteen_nine.avif?token=GHSAT0AAAAAACTLVYVIEKMRZ7NDT524AK3UZUMTY7Q)
+![App Screenshot](![images-sixteen_nine](https://github.com/OneBlack333/screenshot/assets/149599045/f009d47e-58a9-4211-b990-d32c640bce9b)
+)
 
 
 ## Project Objectives
