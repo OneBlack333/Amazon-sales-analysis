@@ -4,9 +4,7 @@
 MYSQL project for amazon sales analysis.
 
 
-
-![App Screenshot](![images-sixteen_nine](https://github.com/OneBlack333/Amazon-sales-analysis/assets/149599045/4b45af1e-1ecc-45f4-b9de-af787cff75a2)
-)
+![images-sixteen_nine](https://github.com/OneBlack333/SQL_Project/assets/149599045/7cf5597a-747a-421b-9662-e437c7b6f802)
 
 
 ## Project Objectives
@@ -30,6 +28,3 @@ In customer analysis, we distinguish between customers who have subscribed and t
 • Campaigning is necessary to increase the sales of the product.    
 • The price of the product will decrease when the customer adds the recommended product.    
 • To increase the sales the participation of males should increase.
-
-
-
