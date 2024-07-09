@@ -5,7 +5,7 @@ MYSQL project for amazon sales analysis.
 
 
 
-![App Screenshot](![images-sixteen_nine](https://github.com/OneBlack333/screenshot/assets/149599045/f009d47e-58a9-4211-b990-d32c640bce9b)
+![App Screenshot](![images-sixteen_nine](https://github.com/OneBlack333/Amazon-sales-analysis/assets/149599045/4b45af1e-1ecc-45f4-b9de-af787cff75a2)
 )
 
 
